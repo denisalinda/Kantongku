@@ -16,3 +16,9 @@ buildscript {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext {
+    retrofitVersion = "2.9.0"
+    okHttpVersion = "4.9.0"
+    swipeRefreshVersion = "1.1.0"
+}
