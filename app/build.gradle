@@ -46,11 +46,11 @@ dependencies {
     implementation 'com.google.android.material:material:1.2.0-alpha06'
 
     //Network
-    implementation "com.squareup.retrofit2:retrofit:$retrofitVersion"
-    implementation "com.squareup.retrofit2:corverter-gson:$retrofitVersion"
-    implementation "com.squareup.okhttp3:okhttp:$okHttpVersion"
-    implementation "com.squareup.okhttp3:logging-interceptor:$okHttpVersion"
+    //implementation "com.squareup.retrofit2:retrofit:$retrofitVersion"
+    //implementation "com.squareup.retrofit2:corverter-gson:$retrofitVersion"
+    //implementation "com.squareup.okhttp3:okhttp:$okHttpVersion"
+    //implementation "com.squareup.okhttp3:logging-interceptor:$okHttpVersion"
 
     //UI
-    implementation "androidx.swiperefreshlayout:swiperefreshlayout:$swipeRefreshVersion"
+    //implementation "androidx.swiperefreshlayout:swiperefreshlayout:$swipeRefreshVersion"
 }
