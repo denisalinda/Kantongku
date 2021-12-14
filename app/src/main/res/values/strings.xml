@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Kantongku</string>
+    <string name="ketik_disini">Ketik disini</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="batal">BATAL</string>
+    <string name="simpan1">SIMPAN</string>
+    <string name="batal2">BATAL</string>
+    <string name="simpan2">SIMPAN</string>
+    <string name="update2">UPDATE</string>
+    <string name="ketik_disini2">Ketik disini</string>
+    <string name="ketik_disini1">Ketik disini</string>
 </resources>
